@@ -1,5 +1,4 @@
-# AdEase_BusinessCaseStudy Scaler
-
+# Time Series AdEase_BusinessCaseStudy
 Why this case study?
 
 From the company’s perspective:
