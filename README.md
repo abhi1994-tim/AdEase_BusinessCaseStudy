@@ -1,4 +1,4 @@
-# Time Series AdEase_BusinessCaseStudy
+# Time Series_AdEase_BusinessCaseStudy
 Why this case study?
 
 From the company’s perspective:
